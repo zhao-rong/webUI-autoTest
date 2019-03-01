@@ -1,0 +1,24 @@
+2019-02-27 09:42:59,829 - BrowserEngine - INFO - You had select Chrome browser
+2019-02-27 09:42:59,839 - BrowserEngine - INFO - The test server url is http://127.0.0.1/forum.php
+2019-02-27 09:43:03,193 - BrowserEngine - INFO - Open Chrome browser
+2019-02-27 09:43:06,771 - BrowserEngine - INFO - Open url http://127.0.0.1/forum.php
+2019-02-27 09:43:07,905 - BrowserEngine - INFO - Maximize the current window
+2019-02-27 09:43:07,906 - BrowserEngine - INFO - Set implicitly wait 10 seconds
+2019-02-27 09:43:10,099 - BrowserEngine - INFO - You had select Chrome browser
+2019-02-27 09:43:10,099 - BrowserEngine - INFO - The test server url is http://127.0.0.1/forum.php
+2019-02-27 09:43:13,781 - BrowserEngine - INFO - Open Chrome browser
+2019-02-27 09:43:17,439 - BrowserEngine - INFO - Open url http://127.0.0.1/forum.php
+2019-02-27 09:43:18,561 - BrowserEngine - INFO - Maximize the current window
+2019-02-27 09:43:18,562 - BrowserEngine - INFO - Set implicitly wait 10 seconds
+2019-02-27 09:43:20,745 - BrowserEngine - INFO - You had select Chrome browser
+2019-02-27 09:43:20,745 - BrowserEngine - INFO - The test server url is http://127.0.0.1/forum.php
+2019-02-27 09:43:23,772 - BrowserEngine - INFO - Open Chrome browser
+2019-02-27 09:43:27,698 - BrowserEngine - INFO - Open url http://127.0.0.1/forum.php
+2019-02-27 09:43:28,822 - BrowserEngine - INFO - Maximize the current window
+2019-02-27 09:43:28,822 - BrowserEngine - INFO - Set implicitly wait 10 seconds
+2019-02-27 09:43:31,019 - BrowserEngine - INFO - You had select Chrome browser
+2019-02-27 09:43:31,019 - BrowserEngine - INFO - The test server url is http://127.0.0.1/forum.php
+2019-02-27 09:43:34,400 - BrowserEngine - INFO - Open Chrome browser
+2019-02-27 09:43:37,745 - BrowserEngine - INFO - Open url http://127.0.0.1/forum.php
+2019-02-27 09:43:38,870 - BrowserEngine - INFO - Maximize the current window
+2019-02-27 09:43:38,870 - BrowserEngine - INFO - Set implicitly wait 10 seconds

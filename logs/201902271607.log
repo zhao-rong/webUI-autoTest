@@ -1,0 +1,22 @@
+2019-02-27 16:07:02,136 - BrowserEngine - INFO - You had select Chrome browser
+2019-02-27 16:07:02,136 - BrowserEngine - INFO - The test server url is http://127.0.0.1/forum.php
+2019-02-27 16:07:04,471 - BrowserEngine - INFO - Open Chrome browser
+2019-02-27 16:07:06,042 - BrowserEngine - INFO - Open url http://127.0.0.1/forum.php
+2019-02-27 16:07:07,191 - BrowserEngine - INFO - Maximize the current window
+2019-02-27 16:07:07,191 - BrowserEngine - INFO - Set implicitly wait 10 seconds
+2019-02-27 16:07:07,231 - BasePage - INFO - 找到页面元素
+2019-02-27 16:07:07,329 - BasePage - INFO - 输入内容
+2019-02-27 16:07:07,446 - BasePage - INFO - 找到页面元素
+2019-02-27 16:07:07,522 - BasePage - INFO - 输入内容
+2019-02-27 16:07:07,554 - BasePage - INFO - 找到页面元素
+2019-02-27 16:07:07,605 - BasePage - INFO - Click and open another page
+2019-02-27 16:07:07,653 - BasePage - INFO - 找到页面元素
+2019-02-27 16:07:08,572 - BasePage - INFO - Click and open another page
+2019-02-27 16:07:08,623 - BasePage - INFO - 找到页面元素
+2019-02-27 16:07:09,542 - BasePage - INFO - Click and open another page
+2019-02-27 16:07:09,592 - BasePage - INFO - 找到页面元素
+2019-02-27 16:07:09,948 - BasePage - INFO - Click and open another page
+2019-02-27 16:07:09,994 - BasePage - INFO - 找到页面元素
+2019-02-27 16:07:10,554 - BasePage - INFO - Click and open another page
+2019-02-27 16:07:10,624 - BasePage - INFO - 找到页面元素
+2019-02-27 16:07:10,800 - BasePage - INFO - Click and open another page

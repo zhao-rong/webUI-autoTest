@@ -1,0 +1,46 @@
+2019-02-28 19:52:00,909 - BrowserEngine - INFO - You had select Chrome browser
+2019-02-28 19:52:00,909 - BrowserEngine - INFO - The test server url is http://127.0.0.1/forum.php
+2019-02-28 19:52:03,294 - BrowserEngine - INFO - Open Chrome browser
+2019-02-28 19:52:04,795 - BrowserEngine - INFO - Open url http://127.0.0.1/forum.php
+2019-02-28 19:52:05,928 - BrowserEngine - INFO - Maximize the current window
+2019-02-28 19:52:05,928 - BrowserEngine - INFO - Set implicitly wait 10 seconds
+2019-02-28 19:52:05,968 - BasePage - INFO - 找到页面元素
+2019-02-28 19:52:06,092 - BasePage - INFO - 输入内容
+2019-02-28 19:52:06,168 - BasePage - INFO - 找到页面元素
+2019-02-28 19:52:06,239 - BasePage - INFO - 输入内容
+2019-02-28 19:52:06,277 - BasePage - INFO - 找到页面元素
+2019-02-28 19:52:06,338 - BasePage - INFO - Click and open another page
+2019-02-28 19:52:08,365 - BasePage - INFO - 找到页面元素
+2019-02-28 19:52:08,677 - BasePage - INFO - Click and open another page
+2019-02-28 19:52:08,718 - BasePage - INFO - 找到页面元素
+2019-02-28 19:52:09,930 - BasePage - INFO - Click and open another page
+2019-02-28 19:52:09,982 - BasePage - INFO - 找到页面元素
+2019-02-28 19:52:10,357 - BasePage - INFO - Click and open another page
+2019-02-28 19:52:10,400 - BasePage - INFO - 找到页面元素
+2019-02-28 19:52:10,545 - BasePage - INFO - 输入内容
+2019-02-28 19:52:10,579 - BasePage - INFO - 找到页面元素
+2019-02-28 19:52:10,687 - BasePage - INFO - 输入内容
+2019-02-28 19:52:10,720 - BasePage - INFO - 找到页面元素
+2019-02-28 19:52:10,845 - BasePage - INFO - 输入内容
+2019-02-28 19:52:10,874 - BasePage - INFO - 找到页面元素
+2019-02-28 19:52:10,971 - BasePage - INFO - 输入内容
+2019-02-28 19:52:10,994 - BasePage - INFO - 找到页面元素
+2019-02-28 19:52:11,058 - BasePage - INFO - 输入内容
+2019-02-28 19:52:11,082 - BasePage - INFO - 找到页面元素
+2019-02-28 19:52:11,152 - BasePage - INFO - Click and open another page
+2019-02-28 19:52:14,746 - BasePage - INFO - 找到页面元素
+2019-02-28 19:52:14,823 - BasePage - INFO - Click and open another page
+2019-02-28 19:52:14,857 - BasePage - INFO - 找到页面元素
+2019-02-28 19:52:15,828 - BasePage - INFO - Click and open another page
+2019-02-28 19:52:15,870 - BasePage - INFO - 找到页面元素
+2019-02-28 19:52:15,899 - PostContent - INFO - 第一个名称：1.  num-one
+2019-02-28 19:52:16,048 - BasePage - INFO - 找到页面元素
+2019-02-28 19:52:16,078 - PostContent - INFO - 第一个比例：100.00% (1)
+2019-02-28 19:52:16,118 - BasePage - INFO - 找到页面元素
+2019-02-28 19:52:16,151 - PostContent - INFO - 第二个名称：2.  num-two
+2019-02-28 19:52:16,183 - BasePage - INFO - 找到页面元素
+2019-02-28 19:52:16,213 - PostContent - INFO - 第二个比例：0.00% (0)
+2019-02-28 19:52:16,243 - BasePage - INFO - 找到页面元素
+2019-02-28 19:52:16,273 - PostContent - INFO - 第三个名称：3.  num-three
+2019-02-28 19:52:16,311 - BasePage - INFO - 找到页面元素
+2019-02-28 19:52:16,339 - PostContent - INFO - 第三个比例：0.00% (0)

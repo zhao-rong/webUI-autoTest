@@ -1,0 +1,52 @@
+2019-02-28 14:05:07,798 - BrowserEngine - INFO - You had select Chrome browser
+2019-02-28 14:05:07,798 - BrowserEngine - INFO - The test server url is http://127.0.0.1/forum.php
+2019-02-28 14:05:09,984 - BrowserEngine - INFO - Open Chrome browser
+2019-02-28 14:05:11,788 - BrowserEngine - INFO - Open url http://127.0.0.1/forum.php
+2019-02-28 14:05:12,908 - BrowserEngine - INFO - Maximize the current window
+2019-02-28 14:05:12,909 - BrowserEngine - INFO - Set implicitly wait 10 seconds
+2019-02-28 14:05:12,946 - BasePage - INFO - 找到页面元素
+2019-02-28 14:05:13,040 - BasePage - INFO - 输入内容
+2019-02-28 14:05:13,073 - BasePage - INFO - 找到页面元素
+2019-02-28 14:05:13,134 - BasePage - INFO - 输入内容
+2019-02-28 14:05:13,164 - BasePage - INFO - 找到页面元素
+2019-02-28 14:05:13,215 - BasePage - INFO - Click and open another page
+2019-02-28 14:05:15,277 - BasePage - INFO - 找到页面元素
+2019-02-28 14:05:15,671 - BasePage - INFO - Click and open another page
+2019-02-28 14:05:15,711 - BasePage - INFO - 找到页面元素
+2019-02-28 14:05:15,854 - BasePage - INFO - Click and open another page
+2019-02-28 14:05:15,900 - BasePage - INFO - 找到页面元素
+2019-02-28 14:05:16,097 - BasePage - INFO - Click and open another page
+2019-02-28 14:05:16,154 - BasePage - INFO - 找到页面元素
+2019-02-28 14:05:16,580 - BasePage - INFO - Click and open another page
+2019-02-28 14:05:16,704 - BasePage - INFO - 找到页面元素
+2019-02-28 14:05:16,808 - BasePage - INFO - Click and open another page
+2019-02-28 14:05:16,813 - BasePage - INFO - Swich to window handle
+2019-02-28 14:05:21,371 - BasePage - INFO - 找到页面元素
+2019-02-28 14:05:21,662 - BasePage - INFO - Click and open another page
+2019-02-28 14:05:21,705 - BasePage - INFO - 找到页面元素
+2019-02-28 14:05:21,811 - BasePage - INFO - Click and open another page
+2019-02-28 14:05:21,857 - BasePage - INFO - 找到页面元素
+2019-02-28 14:05:22,197 - BasePage - INFO - Click and open another page
+2019-02-28 14:05:22,204 - BasePage - INFO - Swich to window handle
+2019-02-28 14:05:22,244 - BasePage - INFO - 找到页面元素
+2019-02-28 14:05:22,620 - BasePage - INFO - Click and open another page
+2019-02-28 14:05:22,674 - BasePage - INFO - 找到页面元素
+2019-02-28 14:05:22,941 - BasePage - INFO - Click and open another page
+2019-02-28 14:05:25,108 - BasePage - INFO - 找到页面元素
+2019-02-28 14:05:25,180 - BasePage - INFO - 输入内容
+2019-02-28 14:05:25,209 - BasePage - INFO - 找到页面元素
+2019-02-28 14:05:25,255 - BasePage - INFO - 输入内容
+2019-02-28 14:05:25,284 - BasePage - INFO - 找到页面元素
+2019-02-28 14:05:25,330 - BasePage - INFO - Click and open another page
+2019-02-28 14:05:27,363 - BasePage - INFO - 找到页面元素
+2019-02-28 14:05:27,574 - BasePage - INFO - Click and open another page
+2019-02-28 14:05:27,607 - BasePage - INFO - 找到页面元素
+2019-02-28 14:05:27,712 - BasePage - INFO - 输入内容
+2019-02-28 14:05:27,741 - BasePage - INFO - 找到页面元素
+2019-02-28 14:05:27,828 - BasePage - INFO - 输入内容
+2019-02-28 14:05:27,854 - BasePage - INFO - 找到页面元素
+2019-02-28 14:05:28,440 - BasePage - INFO - Click and open another page
+2019-02-28 14:05:48,473 - BasePage - INFO - 找到页面元素
+2019-02-28 14:05:48,545 - BasePage - INFO - 输入内容
+2019-02-28 14:05:48,577 - BasePage - INFO - 找到页面元素
+2019-02-28 14:05:48,743 - BasePage - INFO - Click and open another page

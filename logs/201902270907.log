@@ -1,0 +1,32 @@
+2019-02-27 09:07:01,786 - BrowserEngine - INFO - You had select Chrome browser
+2019-02-27 09:07:01,786 - BrowserEngine - INFO - The test server url is http://127.0.0.1/forum.php
+2019-02-27 09:07:04,556 - BrowserEngine - INFO - Open Chrome browser
+2019-02-27 09:07:06,896 - BrowserEngine - INFO - Open url http://127.0.0.1/forum.php
+2019-02-27 09:07:08,042 - BrowserEngine - INFO - Maximize the current window
+2019-02-27 09:07:08,042 - BrowserEngine - INFO - Set implicitly wait 10 seconds
+2019-02-27 09:07:08,082 - BasePage - INFO - 找到页面元素
+2019-02-27 09:07:08,148 - BasePage - INFO - Click and open another page
+2019-02-27 09:07:10,350 - BrowserEngine - INFO - You had select Chrome browser
+2019-02-27 09:07:10,350 - BrowserEngine - INFO - The test server url is http://127.0.0.1/forum.php
+2019-02-27 09:07:12,951 - BrowserEngine - INFO - Open Chrome browser
+2019-02-27 09:07:14,877 - BrowserEngine - INFO - Open url http://127.0.0.1/forum.php
+2019-02-27 09:07:16,016 - BrowserEngine - INFO - Maximize the current window
+2019-02-27 09:07:16,016 - BrowserEngine - INFO - Set implicitly wait 10 seconds
+2019-02-27 09:07:16,056 - BasePage - INFO - 找到页面元素
+2019-02-27 09:07:16,147 - BasePage - INFO - 输入内容
+2019-02-27 09:07:16,178 - BasePage - INFO - 找到页面元素
+2019-02-27 09:07:16,228 - BasePage - INFO - 输入内容
+2019-02-27 09:07:16,261 - BasePage - INFO - 找到页面元素
+2019-02-27 09:07:16,310 - BasePage - INFO - Click and open another page
+2019-02-27 09:07:18,517 - BrowserEngine - INFO - You had select Chrome browser
+2019-02-27 09:07:18,517 - BrowserEngine - INFO - The test server url is http://127.0.0.1/forum.php
+2019-02-27 09:07:21,194 - BrowserEngine - INFO - Open Chrome browser
+2019-02-27 09:07:23,447 - BrowserEngine - INFO - Open url http://127.0.0.1/forum.php
+2019-02-27 09:07:24,608 - BrowserEngine - INFO - Maximize the current window
+2019-02-27 09:07:24,608 - BrowserEngine - INFO - Set implicitly wait 10 seconds
+2019-02-27 09:07:37,381 - BrowserEngine - INFO - You had select Chrome browser
+2019-02-27 09:07:37,381 - BrowserEngine - INFO - The test server url is http://127.0.0.1/forum.php
+2019-02-27 09:07:39,863 - BrowserEngine - INFO - Open Chrome browser
+2019-02-27 09:07:42,714 - BrowserEngine - INFO - Open url http://127.0.0.1/forum.php
+2019-02-27 09:07:43,838 - BrowserEngine - INFO - Maximize the current window
+2019-02-27 09:07:43,838 - BrowserEngine - INFO - Set implicitly wait 10 seconds

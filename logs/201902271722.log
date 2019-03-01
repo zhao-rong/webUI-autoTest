@@ -1,0 +1,29 @@
+2019-02-27 17:22:44,660 - BrowserEngine - INFO - You had select Chrome browser
+2019-02-27 17:22:44,660 - BrowserEngine - INFO - The test server url is http://127.0.0.1/forum.php
+2019-02-27 17:22:48,813 - BrowserEngine - INFO - Open Chrome browser
+2019-02-27 17:22:51,604 - BrowserEngine - INFO - Open url http://127.0.0.1/forum.php
+2019-02-27 17:22:52,739 - BrowserEngine - INFO - Maximize the current window
+2019-02-27 17:22:52,740 - BrowserEngine - INFO - Set implicitly wait 10 seconds
+2019-02-27 17:22:52,807 - BasePage - INFO - 找到页面元素
+2019-02-27 17:22:52,901 - BasePage - INFO - 输入内容
+2019-02-27 17:22:52,961 - BasePage - INFO - 找到页面元素
+2019-02-27 17:22:53,021 - BasePage - INFO - 输入内容
+2019-02-27 17:22:53,055 - BasePage - INFO - 找到页面元素
+2019-02-27 17:22:53,110 - BasePage - INFO - Click and open another page
+2019-02-27 17:22:53,993 - BasePage - INFO - 找到页面元素
+2019-02-27 17:22:54,461 - BasePage - INFO - Click and open another page
+2019-02-27 17:22:54,516 - BasePage - INFO - 找到页面元素
+2019-02-27 17:22:55,905 - BasePage - INFO - Click and open another page
+2019-02-27 17:22:55,947 - BasePage - INFO - 找到页面元素
+2019-02-27 17:22:56,149 - BasePage - INFO - Click and open another page
+2019-02-27 17:22:56,193 - BasePage - INFO - 找到页面元素
+2019-02-27 17:22:56,827 - BasePage - INFO - Click and open another page
+2019-02-27 17:22:56,905 - BasePage - INFO - 找到页面元素
+2019-02-27 17:22:57,021 - BasePage - INFO - Click and open another page
+2019-02-27 17:22:57,028 - BasePage - INFO - Swich to window handle
+2019-02-27 17:22:58,215 - BasePage - INFO - 找到页面元素
+2019-02-27 17:22:58,282 - BasePage - INFO - Click and open another page
+2019-02-27 17:22:58,631 - BasePage - INFO - 找到页面元素
+2019-02-27 17:22:58,796 - BasePage - INFO - Click and open another page
+2019-02-27 17:22:58,849 - BasePage - INFO - 找到页面元素
+2019-02-27 17:22:59,646 - BasePage - INFO - Click and open another page

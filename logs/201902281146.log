@@ -1,0 +1,40 @@
+2019-02-28 11:46:04,814 - BrowserEngine - INFO - You had select Chrome browser
+2019-02-28 11:46:04,814 - BrowserEngine - INFO - The test server url is http://127.0.0.1/forum.php
+2019-02-28 11:46:08,115 - BrowserEngine - INFO - Open Chrome browser
+2019-02-28 11:46:10,278 - BrowserEngine - INFO - Open url http://127.0.0.1/forum.php
+2019-02-28 11:46:11,397 - BrowserEngine - INFO - Maximize the current window
+2019-02-28 11:46:11,400 - BrowserEngine - INFO - Set implicitly wait 10 seconds
+2019-02-28 11:46:11,437 - BasePage - INFO - 找到页面元素
+2019-02-28 11:46:11,531 - BasePage - INFO - 输入内容
+2019-02-28 11:46:11,562 - BasePage - INFO - 找到页面元素
+2019-02-28 11:46:11,620 - BasePage - INFO - 输入内容
+2019-02-28 11:46:11,651 - BasePage - INFO - 找到页面元素
+2019-02-28 11:46:11,703 - BasePage - INFO - Click and open another page
+2019-02-28 11:46:13,741 - BasePage - INFO - 找到页面元素
+2019-02-28 11:46:13,801 - BasePage - INFO - Click and open another page
+2019-02-28 11:46:13,828 - BasePage - INFO - 找到页面元素
+2019-02-28 11:46:13,893 - BasePage - INFO - 输入内容
+2019-02-28 11:46:13,927 - BasePage - INFO - 找到页面元素
+2019-02-28 11:46:14,017 - BasePage - INFO - Click and open another page
+2019-02-28 11:46:26,585 - BasePage - ERROR - Failed to click  with'NoneType' object has no attribute 'click'
+2019-02-28 11:46:53,197 - BrowserEngine - INFO - You had select Chrome browser
+2019-02-28 11:46:53,198 - BrowserEngine - INFO - The test server url is http://127.0.0.1/forum.php
+2019-02-28 11:46:55,514 - BrowserEngine - INFO - Open Chrome browser
+2019-02-28 11:46:57,968 - BrowserEngine - INFO - Open url http://127.0.0.1/forum.php
+2019-02-28 11:46:59,085 - BrowserEngine - INFO - Maximize the current window
+2019-02-28 11:46:59,087 - BrowserEngine - INFO - Set implicitly wait 10 seconds
+2019-02-28 11:46:59,127 - BasePage - INFO - 找到页面元素
+2019-02-28 11:46:59,225 - BasePage - INFO - 输入内容
+2019-02-28 11:46:59,264 - BasePage - INFO - 找到页面元素
+2019-02-28 11:46:59,320 - BasePage - INFO - 输入内容
+2019-02-28 11:46:59,354 - BasePage - INFO - 找到页面元素
+2019-02-28 11:46:59,413 - BasePage - INFO - Click and open another page
+2019-02-28 11:47:01,444 - BasePage - INFO - 找到页面元素
+2019-02-28 11:47:01,500 - BasePage - INFO - Click and open another page
+2019-02-28 11:47:01,520 - BasePage - INFO - 找到页面元素
+2019-02-28 11:47:01,580 - BasePage - INFO - 输入内容
+2019-02-28 11:47:01,610 - BasePage - INFO - 找到页面元素
+2019-02-28 11:47:01,690 - BasePage - INFO - Click and open another page
+2019-02-28 11:47:03,720 - BasePage - INFO - Swich to window handle
+2019-02-28 11:47:04,789 - BasePage - INFO - 找到页面元素
+2019-02-28 11:47:04,874 - BasePage - INFO - Click and open another page

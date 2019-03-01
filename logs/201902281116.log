@@ -1,0 +1,25 @@
+2019-02-28 11:16:30,517 - BrowserEngine - INFO - You had select Chrome browser
+2019-02-28 11:16:30,517 - BrowserEngine - INFO - The test server url is http://127.0.0.1/forum.php
+2019-02-28 11:16:32,863 - BrowserEngine - INFO - Open Chrome browser
+2019-02-28 11:16:35,532 - BrowserEngine - INFO - Open url http://127.0.0.1/forum.php
+2019-02-28 11:16:36,652 - BrowserEngine - INFO - Maximize the current window
+2019-02-28 11:16:36,653 - BrowserEngine - INFO - Set implicitly wait 10 seconds
+2019-02-28 11:16:36,696 - BasePage - INFO - 找到页面元素
+2019-02-28 11:16:36,794 - BasePage - INFO - 输入内容
+2019-02-28 11:16:36,825 - BasePage - INFO - 找到页面元素
+2019-02-28 11:16:36,885 - BasePage - INFO - 输入内容
+2019-02-28 11:16:36,914 - BasePage - INFO - 找到页面元素
+2019-02-28 11:16:36,966 - BasePage - INFO - Click and open another page
+2019-02-28 11:16:36,999 - BasePage - INFO - 找到页面元素
+2019-02-28 11:16:37,877 - BasePage - INFO - Click and open another page
+2019-02-28 11:16:48,617 - BasePage - ERROR - Failed to click  with'NoneType' object has no attribute 'click'
+2019-02-28 11:16:59,159 - BasePage - ERROR - Failed to click  with'NoneType' object has no attribute 'click'
+2019-02-28 11:17:09,734 - BasePage - ERROR - Failed to type in input box with'NoneType' object has no attribute 'send_keys'
+2019-02-28 11:17:20,296 - BasePage - ERROR - Failed to type in input box with'NoneType' object has no attribute 'send_keys'
+2019-02-28 11:17:30,875 - BasePage - ERROR - Failed to type in input box with'NoneType' object has no attribute 'send_keys'
+2019-02-28 11:17:41,427 - BasePage - ERROR - Failed to type in input box with'NoneType' object has no attribute 'send_keys'
+2019-02-28 11:17:41,456 - BasePage - INFO - 找到页面元素
+2019-02-28 11:17:41,514 - BasePage - INFO - 输入内容
+2019-02-28 11:17:52,046 - BasePage - ERROR - Failed to click  with'NoneType' object has no attribute 'click'
+2019-02-28 11:18:02,591 - BasePage - ERROR - Failed to click  with'NoneType' object has no attribute 'click'
+2019-02-28 11:18:13,147 - BasePage - ERROR - Failed to click  with'NoneType' object has no attribute 'click'

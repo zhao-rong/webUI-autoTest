@@ -1,0 +1,30 @@
+2019-02-28 11:17:41,101 - BrowserEngine - INFO - You had select Chrome browser
+2019-02-28 11:17:41,101 - BrowserEngine - INFO - The test server url is http://127.0.0.1/forum.php
+2019-02-28 11:17:44,345 - BrowserEngine - INFO - Open Chrome browser
+2019-02-28 11:17:47,769 - BrowserEngine - INFO - Open url http://127.0.0.1/forum.php
+2019-02-28 11:17:48,886 - BrowserEngine - INFO - Maximize the current window
+2019-02-28 11:17:48,887 - BrowserEngine - INFO - Set implicitly wait 10 seconds
+2019-02-28 11:17:48,928 - BasePage - INFO - 找到页面元素
+2019-02-28 11:17:49,020 - BasePage - INFO - 输入内容
+2019-02-28 11:17:49,056 - BasePage - INFO - 找到页面元素
+2019-02-28 11:17:49,116 - BasePage - INFO - 输入内容
+2019-02-28 11:17:49,150 - BasePage - INFO - 找到页面元素
+2019-02-28 11:17:49,204 - BasePage - INFO - Click and open another page
+2019-02-28 11:17:51,236 - BasePage - INFO - 找到页面元素
+2019-02-28 11:17:52,685 - BasePage - INFO - Click and open another page
+2019-02-28 11:17:52,897 - BasePage - INFO - 找到页面元素
+2019-02-28 11:17:55,983 - BasePage - INFO - Click and open another page
+2019-02-28 11:17:56,025 - BasePage - INFO - 找到页面元素
+2019-02-28 11:17:56,662 - BasePage - INFO - Click and open another page
+2019-02-28 11:17:56,718 - BasePage - INFO - 找到页面元素
+2019-02-28 11:17:56,949 - BasePage - INFO - 输入内容
+2019-02-28 11:17:56,988 - BasePage - INFO - 找到页面元素
+2019-02-28 11:17:57,184 - BasePage - INFO - 输入内容
+2019-02-28 11:18:07,674 - BasePage - ERROR - Failed to type in input box with'NoneType' object has no attribute 'send_keys'
+2019-02-28 11:18:18,207 - BasePage - ERROR - Failed to type in input box with'NoneType' object has no attribute 'send_keys'
+2019-02-28 11:18:18,236 - BasePage - INFO - 找到页面元素
+2019-02-28 11:18:18,299 - BasePage - INFO - 输入内容
+2019-02-28 11:18:18,327 - BasePage - INFO - 找到页面元素
+2019-02-28 11:18:18,435 - BasePage - INFO - Click and open another page
+2019-02-28 11:18:29,032 - BasePage - ERROR - Failed to click  with'NoneType' object has no attribute 'click'
+2019-02-28 11:18:39,611 - BasePage - ERROR - Failed to click  with'NoneType' object has no attribute 'click'

@@ -1,0 +1,8 @@
+2019-02-28 09:29:39,151 - BrowserEngine - INFO - You had select Chrome browser
+2019-02-28 09:29:39,151 - BrowserEngine - INFO - The test server url is http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 09:29:44,586 - BrowserEngine - INFO - Open Chrome browser
+2019-02-28 09:29:46,818 - BrowserEngine - INFO - Open url http://127.0.0.1/forum.php?mod=forumdisplay&fid=2
+2019-02-28 09:29:48,015 - BrowserEngine - INFO - Maximize the current window
+2019-02-28 09:29:48,015 - BrowserEngine - INFO - Set implicitly wait 10 seconds
+2019-02-28 09:29:48,345 - BasePage - INFO - ÕÒµ½Ò³ÃæÔªËØ
+2019-02-28 09:29:50,338 - BasePage - INFO - Click and open another page

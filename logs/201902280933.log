@@ -1,0 +1,17 @@
+2019-02-28 09:33:21,711 - BrowserEngine - INFO - You had select Chrome browser
+2019-02-28 09:33:21,711 - BrowserEngine - INFO - The test server url is http://127.0.0.1/forum.php
+2019-02-28 09:33:24,193 - BrowserEngine - INFO - Open Chrome browser
+2019-02-28 09:33:27,719 - BrowserEngine - INFO - Open url http://127.0.0.1/forum.php
+2019-02-28 09:33:28,840 - BrowserEngine - INFO - Maximize the current window
+2019-02-28 09:33:28,840 - BrowserEngine - INFO - Set implicitly wait 10 seconds
+2019-02-28 09:33:28,880 - BasePage - INFO - 找到页面元素
+2019-02-28 09:33:28,985 - BasePage - INFO - 输入内容
+2019-02-28 09:33:29,027 - BasePage - INFO - 找到页面元素
+2019-02-28 09:33:29,107 - BasePage - INFO - 输入内容
+2019-02-28 09:33:29,151 - BasePage - INFO - 找到页面元素
+2019-02-28 09:33:29,216 - BasePage - INFO - Click and open another page
+2019-02-28 09:33:29,251 - BasePage - INFO - 找到页面元素
+2019-02-28 09:33:29,768 - BasePage - ERROR - Failed to click  withMessage: stale element reference: element is not attached to the page document
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+

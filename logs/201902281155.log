@@ -1,0 +1,47 @@
+2019-02-28 11:55:30,692 - BrowserEngine - INFO - You had select Chrome browser
+2019-02-28 11:55:30,692 - BrowserEngine - INFO - The test server url is http://127.0.0.1/forum.php
+2019-02-28 11:55:32,898 - BrowserEngine - INFO - Open Chrome browser
+2019-02-28 11:55:34,666 - BrowserEngine - INFO - Open url http://127.0.0.1/forum.php
+2019-02-28 11:55:35,785 - BrowserEngine - INFO - Maximize the current window
+2019-02-28 11:55:35,787 - BrowserEngine - INFO - Set implicitly wait 10 seconds
+2019-02-28 11:55:35,829 - BasePage - INFO - 找到页面元素
+2019-02-28 11:55:35,926 - BasePage - INFO - 输入内容
+2019-02-28 11:55:35,989 - BasePage - INFO - 找到页面元素
+2019-02-28 11:55:36,050 - BasePage - INFO - 输入内容
+2019-02-28 11:55:36,080 - BasePage - INFO - 找到页面元素
+2019-02-28 11:55:36,136 - BasePage - INFO - Click and open another page
+2019-02-28 11:55:38,194 - BasePage - INFO - 找到页面元素
+2019-02-28 11:55:38,621 - BasePage - INFO - Click and open another page
+2019-02-28 11:55:38,658 - BasePage - INFO - 找到页面元素
+2019-02-28 11:55:38,704 - BasePage - INFO - Click and open another page
+2019-02-28 11:55:38,785 - BasePage - INFO - 找到页面元素
+2019-02-28 11:55:39,159 - BasePage - INFO - Click and open another page
+2019-02-28 11:55:39,203 - BasePage - INFO - 找到页面元素
+2019-02-28 11:55:39,866 - BasePage - INFO - Click and open another page
+2019-02-28 11:55:39,950 - BasePage - INFO - 找到页面元素
+2019-02-28 11:55:40,034 - BasePage - INFO - Click and open another page
+2019-02-28 11:55:40,042 - BasePage - INFO - Swich to window handle
+2019-02-28 11:56:03,801 - BasePage - INFO - 找到页面元素
+2019-02-28 11:56:04,009 - BasePage - INFO - Click and open another page
+2019-02-28 11:56:04,062 - BasePage - INFO - 找到页面元素
+2019-02-28 11:56:04,172 - BasePage - INFO - Click and open another page
+2019-02-28 11:56:04,206 - BasePage - INFO - 找到页面元素
+2019-02-28 11:56:04,423 - BasePage - INFO - Click and open another page
+2019-02-28 11:56:04,432 - BasePage - INFO - Swich to window handle
+2019-02-28 11:56:04,469 - BasePage - INFO - 找到页面元素
+2019-02-28 11:56:04,915 - BasePage - INFO - Click and open another page
+2019-02-28 11:56:04,961 - BasePage - INFO - 找到页面元素
+2019-02-28 11:56:05,142 - BasePage - INFO - Click and open another page
+2019-02-28 11:56:07,306 - BasePage - INFO - 找到页面元素
+2019-02-28 11:56:07,352 - BasePage - INFO - 输入内容
+2019-02-28 11:56:07,378 - BasePage - INFO - 找到页面元素
+2019-02-28 11:56:07,425 - BasePage - INFO - 输入内容
+2019-02-28 11:56:07,451 - BasePage - INFO - 找到页面元素
+2019-02-28 11:56:07,498 - BasePage - INFO - Click and open another page
+2019-02-28 11:56:07,528 - BasePage - INFO - 找到页面元素
+2019-02-28 11:56:07,864 - BasePage - INFO - Click and open another page
+2019-02-28 11:56:18,435 - BasePage - ERROR - Failed to type in input box with'NoneType' object has no attribute 'send_keys'
+2019-02-28 11:56:28,956 - BasePage - ERROR - Failed to type in input box with'NoneType' object has no attribute 'send_keys'
+2019-02-28 11:56:39,534 - BasePage - ERROR - Failed to click  with'NoneType' object has no attribute 'click'
+2019-02-28 11:56:50,102 - BasePage - ERROR - Failed to type in input box with'NoneType' object has no attribute 'send_keys'
+2019-02-28 11:57:00,680 - BasePage - ERROR - Failed to click  with'NoneType' object has no attribute 'click'

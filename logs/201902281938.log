@@ -1,0 +1,21 @@
+2019-02-28 19:38:30,131 - BrowserEngine - INFO - You had select Chrome browser
+2019-02-28 19:38:30,131 - BrowserEngine - INFO - The test server url is http://127.0.0.1/forum.php
+2019-02-28 19:38:32,044 - BrowserEngine - INFO - Open Chrome browser
+2019-02-28 19:38:34,624 - BrowserEngine - INFO - Open url http://127.0.0.1/forum.php
+2019-02-28 19:38:35,766 - BrowserEngine - INFO - Maximize the current window
+2019-02-28 19:38:35,766 - BrowserEngine - INFO - Set implicitly wait 10 seconds
+2019-02-28 19:38:35,816 - BasePage - INFO - 找到页面元素
+2019-02-28 19:38:35,911 - BasePage - INFO - 输入内容
+2019-02-28 19:38:35,947 - BasePage - INFO - 找到页面元素
+2019-02-28 19:38:36,010 - BasePage - INFO - 输入内容
+2019-02-28 19:38:36,036 - BasePage - INFO - 找到页面元素
+2019-02-28 19:38:36,094 - BasePage - INFO - Click and open another page
+2019-02-28 19:38:36,132 - BasePage - INFO - 找到页面元素
+2019-02-28 19:38:36,614 - BasePage - INFO - Click and open another page
+2019-02-28 19:38:47,202 - BasePage - ERROR - Failed to type in input box with'NoneType' object has no attribute 'send_keys'
+2019-02-28 19:38:57,815 - BasePage - ERROR - Failed to type in input box with'NoneType' object has no attribute 'send_keys'
+2019-02-28 19:39:08,371 - BasePage - ERROR - Failed to click  with'NoneType' object has no attribute 'click'
+2019-02-28 19:39:18,963 - BasePage - ERROR - Failed to type in input box with'NoneType' object has no attribute 'send_keys'
+2019-02-28 19:39:29,538 - BasePage - ERROR - Failed to click  with'NoneType' object has no attribute 'click'
+2019-02-28 19:39:29,587 - BasePage - INFO - 找到页面元素
+2019-02-28 19:39:30,190 - BasePage - INFO - Click and open another page
